@@ -154,38 +154,38 @@ body {
 
     @media (max-width: 768px) {
         .header {
-            padding: 10px; /* Ajusta el padding */
+            padding: 10px;
         }
 
         .navbar {
-            flex-direction: column; /* Cambia la dirección de la navbar */
-            align-items: center; /* Centra los enlaces */
+            flex-direction: column; 
+            align-items: center;
         }
 
         .home-content h1 {
-            font-size: 28px; /* Ajusta el tamaño de texto */
+            font-size: 28px;
         }
 
         .card-container,
         .container-SobreMi,
         .container-proyectos,
         .contacto {
-            flex-direction: column; /* Cambia a columna */
-            align-items: center; /* Centra las tarjetas */
+            flex-direction: column;
+            align-items: center; 
         }
 
         .card {
-            width: 80%; /* Las tarjetas ocupan más espacio en pantallas pequeñas */
-            margin: 10px 0; /* Espacio entre tarjetas */
+            width: 80%;
+            margin: 10px 0;
         }
 
         .contacto {
-            width: 100%; /* Ocupa todo el ancho */
+            width: 100%;
         }
 
         .sticky-button {
-            bottom: 10px; /* Ajusta la posición del botón */
-            right: 10px; /* Ajusta la posición del botón */
+            bottom: 10px;
+            right: 10px; 
         }
     }
 
